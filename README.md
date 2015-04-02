@@ -1,7 +1,7 @@
 Ansible Role - Php - PHPUnit
 ============================
 
-A php phpunit role dependent on geerlingguy.php
+A php phpunit role dependent on geerlingguy.composer
 
 Requirements
 ------------
