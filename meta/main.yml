@@ -2,13 +2,13 @@
 
 dependencies:
 
-  - { role: elao.composer }
+  - { role: geerlingguy.composer }
 
 galaxy_info:
 
-  author:              elao
-  description:         A phpunit role for elao symfony standard vagrant box
-  company:             elao
+  author:              webstandardcss
+  description:         A phpunit role dependent on geerlingguy.composer
+  company:             webstandardcss
   license:             MIT
   min_ansible_version: 1.7.0
   platforms:
